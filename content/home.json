@@ -3,10 +3,29 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-novo.png",
-      "link": "/lampadas-led",
-      "mobile_img": "/img/uploads/banner-novo.png"
+      "type": "banner-slider",
+      "autoplay": 4000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-novo.png",
+          "link": "/lampadas-led",
+          "mobile_img": "/img/uploads/banner-novo.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-fita-de-led.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-decorativo.png",
+          "link": "/pendentes-led"
+        }
+      ]
     },
     {
       "type": "info-bar",
