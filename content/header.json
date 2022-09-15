@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Frete grátis em pedidos acima de 999 reais",
-    "link": "/promotion"
+    "text": "",
+    "link": "/promotion",
+    "color": "#32cd32"
   },
   "contacts_stripe": {
     "pages": [
