@@ -3,7 +3,8 @@
     "lampadas-led",
     "luminarias-led",
     "spots-led",
-    "pendentes-led"
+    "pendentes-led",
+    "fita-de-led"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
