@@ -1,6 +1,11 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "lampadas-led",
+    "luminarias-led",
+    "spots-led",
+    "pendentes-led"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
