@@ -1,7 +1,7 @@
 {
   "domain": "ldhomeiluminacao.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#f5f0f0",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
