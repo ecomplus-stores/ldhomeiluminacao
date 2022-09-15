@@ -4,7 +4,9 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-novo.png"
+      "img": "/img/uploads/banner-novo.png",
+      "link": "/lampadas-led",
+      "mobile_img": "/img/uploads/banner-novo.png"
     },
     {
       "type": "info-bar",
