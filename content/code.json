@@ -1,5 +1,5 @@
 {
-  "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #32CD32;\nborder-color: #32CD32;\nwidth: 50%;\n}\n.product-card__buy button, .product-card__buy button:hover  {\nbackground-color: #32CD32;\nborder-color: #32CD32;\n  color: #fff;\n}",
+  "css": ".product-card__buy button, .product-card__buy button:hover  {\nbackground-color: #32CD32;\nborder-color: #32CD32;\ncolor: #fff;\n}",
   "html_head": "",
   "html_body": ""
 }
