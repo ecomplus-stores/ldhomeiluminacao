@@ -139,6 +139,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "### **C﻿ATÁLOGO LINHA TECNICA**"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -154,6 +158,10 @@
           "link": "http://www.opusled.com.br/catalogo22.pdf"
         }
       ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "### **C﻿ATÁLOGO LINHA DECORATIVA**"
     },
     {
       "type": "banners-grid",
