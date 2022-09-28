@@ -141,6 +141,23 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/catalogo-brilia.png",
+          "link": "file:///C:/Users/Amanda/Downloads/1654259514855Cata%25CC%2581logo%25202022_06.22_V01_compressed.pdf"
+        },
+        {
+          "img": "/img/uploads/usina-design.png",
+          "link": "https://www.usinadesign.com.br/catalogos/CATALOGOUSINA-GERAL-2022-V2.pdf"
+        },
+        {
+          "img": "/img/uploads/seve-energy.png",
+          "link": "https://save.com.br/uploads/informacoes_tecnicas_txt/1/Catalogo-Save-Energy-2022.pdf"
+        }
+      ]
     }
   ]
 }
