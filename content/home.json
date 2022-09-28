@@ -139,10 +139,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -158,6 +154,27 @@
           "link": "http://www.opusled.com.br/catalogo22.pdf"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/usina-design.png",
+          "link": "https://www.usinadesign.com.br/catalogos/CATALOGOUSINA-GERAL-2022-V2.pdf"
+        },
+        {
+          "img": "/img/uploads/old-artsan.png",
+          "link": "https://www.ilustrers.com.br/catalogos/Catalogo%20OLD%20ARTISAN%202020%20-%20CONTEMPORANEO.pdf"
+        },
+        {
+          "img": "/img/uploads/nordecor.png",
+          "link": "https://nordecor.com.br/wordpress/wp-content/uploads/2022/03/Catalogo-Lancamento-Nordecor-2022_Online_compressed-novo.pdf"
+        }
+      ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
