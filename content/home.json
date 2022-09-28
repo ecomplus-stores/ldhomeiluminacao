@@ -28,10 +28,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "custom-content",
       "markdown": "<div class=\"container\"><h2>MAIS VENDIDOS:</h2></div>"
     },
@@ -120,6 +116,31 @@
           "link": "cozinha"
         }
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sala-de-estyar.png",
+          "link": "iluminacao/saladeestar/sala/estar/"
+        },
+        {
+          "img": "/img/uploads/sala-de-jantar.png",
+          "link": "iluminacao/saladejantar/sala/jantar/casa"
+        },
+        {
+          "img": "/img/uploads/area-externa.png",
+          "link": "ilumincao/areaexternaa/externa/"
+        },
+        {
+          "img": "/img/uploads/jardim.png",
+          "link": "iluminacao/jardim/externo/paisagem/ldhomeiluminacao"
+        }
+      ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
