@@ -7,8 +7,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Fale conosco"
       }
     ],
     "phone_wpp": true,
