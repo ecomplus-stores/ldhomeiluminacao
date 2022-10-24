@@ -1,5 +1,5 @@
 {
   "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #32CD32;\nborder-color: #32CD32;\n}\n.product-card__buy button, .product-card__buy button:hover  {\nbackground-color: #32CD32;\nborder-color: #32CD32;\ncolor: #fff;\n}",
-  "html_head": "<a href=\"https://wa.me/551831900116\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\"><i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i></a>",
+  "html_head": "<a href=\"https://wa.me/551831900116\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\"><i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i></a>\n<meta name=\"google-site-verification\" content=\"6zVXt8nPmXLEQq_wT9XKmBQKbVxyeMxh-I_17meAyl8\" />\n",
   "html_body": ""
 }
