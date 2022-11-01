@@ -182,6 +182,15 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 15,
+      "page": 2,
+      "sort": "views",
+      "collection_id": "61d48cfc0c7c727225f15e78:collections:LÂMPADAS LED:/l",
+      "link": "https://ldhomeiluminacao.netlify.app/lampadas-led"
     }
   ]
 }
