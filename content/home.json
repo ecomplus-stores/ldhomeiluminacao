@@ -28,6 +28,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "custom-content",
       "markdown": "<div class=\"container\"><h2>MAIS VENDIDOS:</h2></div>"
     },
@@ -40,23 +44,6 @@
       "headless": true,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 4000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/dssddd.png",
-          "mobile_img": "/img/uploads/dssddd.png"
-        }
-      ]
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<div class=\"container\"><h2>MAIORES DESCONTOS:</h2></div>"
     },
     {
       "type": "collection-shelf",
@@ -89,11 +76,33 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": 1,
+      "page": 2,
       "collection_id": "61d877980c7c727225f86cf4:categories:PENDENTES LED:/categoria/pendentes-led",
       "sort": "views",
       "title": "PENDENTES LED",
       "link": "pendentes-led"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 15,
+      "page": 2,
+      "sort": "views",
+      "collection_id": "61d48cfc0c7c727225f15e78:collections:LÂMPADAS LED:/l",
+      "link": "https://ldhomeiluminacao.netlify.app/lampadas-led"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 4000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/dssddd.png",
+          "mobile_img": "/img/uploads/dssddd.png"
+        }
+      ]
     },
     {
       "type": "banners-grid",
@@ -178,19 +187,6 @@
           "link": "https://www.ilustrers.com.br/catalogos/Catalogo%20OLD%20ARTISAN%202020%20-%20CONTEMPORANEO.pdf"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 15,
-      "page": 2,
-      "sort": "views",
-      "collection_id": "61d48cfc0c7c727225f15e78:collections:LÂMPADAS LED:/l",
-      "link": "https://ldhomeiluminacao.netlify.app/lampadas-led"
     }
   ]
 }
