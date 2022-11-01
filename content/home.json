@@ -44,12 +44,13 @@
     {
       "type": "banner-slider",
       "autoplay": 4000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/dssddd.png"
+          "img": "/img/uploads/dssddd.png",
+          "mobile_img": "/img/uploads/dssddd.png"
         }
       ]
     },
