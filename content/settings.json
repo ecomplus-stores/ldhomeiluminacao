@@ -1,13 +1,13 @@
 {
   "domain": "ldhomeiluminacao.com.br",
-  "repository": "ecomplus-stores/ldhomeiluminacao",
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/ldhomeiluminacao",
   "logo": "/img/uploads/gran-04.png",
   "name": "ldhomeiluminacao",
   "short_name": "ldhomeiluminacao",
