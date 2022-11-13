@@ -10,9 +10,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-novo.png",
-          "link": "/lampadas-led",
-          "mobile_img": "/img/uploads/banner-novo.png"
+          "img": "/img/uploads/2.png",
+          "link": "",
+          "mobile_img": "/img/uploads/1.png"
         },
         {
           "start": "",
@@ -22,7 +22,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-decorativo.png",
+          "img": "/img/uploads/3.png",
           "link": "/pendentes-led"
         }
       ]
