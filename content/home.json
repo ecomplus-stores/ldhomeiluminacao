@@ -26,7 +26,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<div class=\"container\"><h2>MAIS VENDIDOS:</h2></div>"
+      "markdown": "###### <div class=\"container\"><h2>MAIS VENDIDOS:</h2></div>"
     },
     {
       "type": "collection-shelf",
@@ -180,10 +180,6 @@
           "link": "https://www.ilustrers.com.br/catalogos/Catalogo%20OLD%20ARTISAN%202020%20-%20CONTEMPORANEO.pdf"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
