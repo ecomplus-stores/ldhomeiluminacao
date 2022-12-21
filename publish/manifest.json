@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.cbc02b4a40db7eddfd7fd4841e0a2a26.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.83e5481f25ba6c21b7c48112049d56ed.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.2dda79c6dcaebb813c4178160f87ef29.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5abe969d2408d25bc35ba3c606824a12.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0838c69bc3988a3919c6df6143d00fbc.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "ldhomeiluminacao",
+  "short_name": "ldhomeiluminacao",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "ldhomeiluminacao",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
